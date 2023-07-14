@@ -5,4 +5,4 @@
 - 🤖 I have experience in robotics (World Robot Olympiad 2022 Finalist yeah).
 - 📫 Contact me via email: khanhnguyentrinhthi@gmail.com
 - 🐨 Find more about me here: nguyen-trinhtk.github.io
-- 🕊️ P/S: I actually love pigeons
+- 🙈 P/S: I'm Tuk's #1 fan (just kidding)
