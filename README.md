@@ -4,5 +4,5 @@
 - 🌱 I use various coding languages and tools, including Python, C++, Java, HTML, CSS, and JS.
 - 🤖 I have experience in robotics (World Robot Olympiad 2022 Finalist yeah).
 - 📫 Contact me via email: khanhnguyentrinhthi@gmail.com
-- 🐨 Find more about me here: nguyen-trinhtk.github.io
+- 🐨 Find more about me here: [Portfolio](nguyen-trinhtk.github.io)
 - 🙈 P/S: I'm Tuk's #1 fan (just kidding)
