@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nguyen-trinhtk
+- 👋 Hi, I’m [@nguyen-trinhtk](https://github.com/nguyen-trinhtk)
 - 🏫 I'm currently a twelve-grader at VNU-HCM High School for the Gifted
 - 👀 I’m interested in computer science, data science, and robotics
 - 🌱 I use various coding languages and tools, including Python, C++, Java, HTML, CSS, and JS.
