@@ -5,4 +5,3 @@
 - 🤖 I have experience in robotics ([World Robot Olympiad 2022](https://wro-association.org) Finalist yeah).
 - 📫 Contact me via email: khanhnguyentrinhthi@gmail.com
 - 🐨 Find more about me here: [Portfolio](https://nguyen-trinhtk.github.io)
-- 🙈 P/S: I'm [Tuk](https://www.instagram.com/wdzy_official)'s #1 fan (just kidding)
