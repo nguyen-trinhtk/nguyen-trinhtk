@@ -1,7 +1,4 @@
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/14de5a79-adce-4294-a9bb-193620768c8d" />
-</div>
 
 ###
 
@@ -13,9 +10,14 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- Visit my <a href="https://nguyen-trinhtk.github.io">portfolio</a> for more</p>
 
 ###
+
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/14de5a79-adce-4294-a9bb-193620768c8d" />
+</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
