@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- Visit my <a href="https://nguyen-trinhtk.github.io">portfolio</a> for more</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- 🗒️ Visit my <a href="https://nguyen-trinhtk.github.io">portfolio</a> for more</p>
 
 ###
 
