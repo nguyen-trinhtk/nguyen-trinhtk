@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- 🗒️ Visit my <a href="https://nguyen-trinhtk.github.io">portfolio</a> for more</p>
+<p align="left">I'm currently a CS student at Drexel U<br><br>- 🔭 I've worked with software dev/robotics/IoT.<br>- 📚 I'm currently learning Swift and Flutter. <br>- ⚡ In my free time I make crafts <br>- 🗒️ Visit my <a href="https://nguyen-trinhtk.github.io">portfolio</a> for more</p>
 
 ###
 
