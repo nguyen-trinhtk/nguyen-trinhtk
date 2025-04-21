@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hi👋 I'm Nguyen Trinh</h1>
+<h1 align="center">hii</h1>
 
 ###
 
