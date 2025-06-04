@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hii</h1>
+<h1 align="center">hi, i'm Nguyen 👋</h1>
 
 ###
 
@@ -10,6 +10,19 @@
 <img src="https://github.com/user-attachments/assets/14de5a79-adce-4294-a9bb-193620768c8d" />
 </div>
 
+###
+
+- 🌱 I’m currently learning **swift & obj-c**
+
+- 👨‍💻 Check out all of my projects at [https://nguyen-trinhtk.github.io/](https://nguyen-trinhtk.github.io/)
+
+- 📫 How to reach me **khanhnguyentrinhthi@gmail.com**
+
+- 📄 Know about my experiences [https://nguyen-trinhtk.github.io/cv.html](https://nguyen-trinhtk.github.io/cv.html)
+
+###
+
+<h1 align="center">Tech skills</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
