@@ -13,7 +13,7 @@
 
 ---
 
-<h4 align="center">🛠️ Tech Skills</h4>
+<h2 align="center">🛠️ Tech Skills</h2>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" title="C" />
