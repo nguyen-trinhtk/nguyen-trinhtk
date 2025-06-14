@@ -13,13 +13,8 @@
 
 ---
 
-<h1 align="center">🛠️ Tech Skills</h1>
-
+<h4 align="center">🛠️ Tech Skills</h4>
 <div align="center">
-
-<b>🧠 Programming Languages | 🎨 Frontend | ⚙️ Backend & Frameworks | 🧪 ML & CV | 🔧 Hardware & IoT | 💾 Databases | ☁️ Cloud & DevOps</b>  
-<br/><br/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" title="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++" />
@@ -48,5 +43,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" title="Google Cloud" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" title="Linux" />
-
 </div>
