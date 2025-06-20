@@ -1,7 +1,7 @@
 <h1 align="center">hi, i'm Nguyen 👋</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/14de5a79-adce-4294-a9bb-193620768c8d" alt="banner" width=100 height=100/>
+  <img src="https://github.com/user-attachments/assets/14de5a79-adce-4294-a9bb-193620768c8d" alt="banner" width=200 height=200/>
 </div>
 
 ---
