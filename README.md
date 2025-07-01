@@ -44,5 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" title="Linux" />
 </div>
+
 ---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-trinhtk&layout=compact&langs_count=8&theme=default)
