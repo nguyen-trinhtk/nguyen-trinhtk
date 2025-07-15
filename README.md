@@ -5,6 +5,6 @@
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-trinhtk&layout=donut-vertical" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-trinhtk&layout=pie alt="Top Langs">
   </a>
 </div>
