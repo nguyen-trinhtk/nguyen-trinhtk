@@ -2,9 +2,10 @@
 
 - Visit my portfolio: [nguyen-trinhtk.github.io](https://nguyen-trinhtk.github.io/)
 
+<div align="center">
 
-<div class="align-items-center justify-content-center">
-  
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-trinhtk)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-trinhtk&layout=compact" alt="Top Langs">
+  </a>
+
 </div>
