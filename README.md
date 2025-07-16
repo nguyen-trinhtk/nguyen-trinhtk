@@ -1,10 +1,9 @@
-<h1 align="center">Hi there, I'm Nguyen 🫘</h1>
+<h4 align="left">Hi there, I'm Nguyen 🫘</h4>
 
-
-- 💻 I'm a second-year Computer Science student at Drexel University
-- 🍊 I'm interested in embedded software systems, computer vision models, and algorithm analysis
-- ☕ I'm brewing [NeoPAL](https://github.com/nguyen-trinhtk/NeoPAL)
-- 🕊️ Visit my portfolio: [nguyen-trinhtk.github.io](https://nguyen-trinhtk.github.io/)
+ ✌️ I'm a second-year Computer Science student at Drexel University \
+ 💻 I'm interested in `full-stack development`, `computer vision`, and `applied linear algebra` (and casually `embedded systems`) \
+ ☕ I'm brewing [NeoPAL](https://github.com/nguyen-trinhtk/NeoPAL), hang on... \
+ 🕊️ In the meantime, visit my portfolio here: [ngtr.me](https://ngtr.me/)
 
 <br>
 <div align="center">
