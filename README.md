@@ -7,7 +7,7 @@
 - 🕊️ Visit my portfolio: [nguyen-trinhtk.github.io](https://nguyen-trinhtk.github.io/)
 
 <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-trinhtk&layout=compact&langs_count=10&size_weight=0.25&count_weight=1" alt="Top Langs">
   </a>
