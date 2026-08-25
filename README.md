@@ -1,13 +1,11 @@
 ### Hi, I'm Nguyen Trinh
 
-This is pretty much my tinkering space.
+I like going ***low-level*** to make things ***high-performance.*** AI/ML compute, numerical libraries, automation, or whatever else, things always get interesting closer to the metal.
 
-I like going ***low-level*** to make things ***high-performance***. Automation systems, AI/ML compute, numerical libraries, literally anything... there's usually something interesting hiding close to the metal.
-
-This little mind-twister pretty much sums it up:
-```
+i.e.
+```text
 I do fast math on machines;
   by making machines fast with math;
     to make machines do math fast.
 ```
-I also have this tendency to wander into everything, then somehow find my way back to math and computing. Music, board games, food, wellbeing, visual arts-whatever rabbit hole comes next. A lot of my projects spawn from there :)
+I also love wandering down random rabbit holes, then somehow find my way back to math and computing. There's music, board games, nutrition and health, visual arts, to name a few. A lot of my projects spawn from there :)
