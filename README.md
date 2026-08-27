@@ -1,6 +1,6 @@
 ### Hi, I'm Nguyen Trinh
 
-I like going ***low-level*** to make things ***high-performance.*** AI/ML compute, numerical libraries, automation, or whatever else, things always get interesting closer to the metal.
+I like going ***low-level*** to make things ***high-performance.*** Systems software, numerical libraries, AI/ML pipelines, or whatever else, things always get interesting closer to the metal.
 
 i.e.
 ```text
