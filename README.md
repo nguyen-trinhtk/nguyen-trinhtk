@@ -1,18 +1,18 @@
-## Hi, I'm Nguyen Trinh ∿
+## Hi, I'm Nguyen 🐨
 
-I like going ***low-level*** to make things ***high-performance.*** Systems software, numerical algorithms, AI/ML, or whatever else, things always get interesting closer to the metal.
+I like to go ***low-level*** for ***high-performance.*** 
 
-I also love wandering down random rabbit holes, then somehow find my way back to math and computing. There's music, board games, health, visual arts, to name a few. A lot of my projects spawn from there :) 
+Currently, I'm enjoying systems software, AI/ML, and  high-performance computing (HPC) algorithms. They all become more intriguing the closer I get to the hardware and the math. 
 
-And since I mentioned projects...
+I also love making-and-breaking things through projects; indeed, that’s my favorite ways to learn. And since I mentioned projects...
 
-## Projects
+## Projects 🚧
 
 ...here are some highlights: 
 
-- **cuDL (latest):** low-level deep learning library in CUDA. Kernel optimization, kernel fusion, etc.
-- **RAGsearch:** a RAG plugin for research repos...
-- **FFTop:** an FFT (signal processing) library that autotunes for CPU/GPUs.
-- **Othello-on-the-fly:** a game engine for a checkered board game called Othello (Reversi).
-- **Traffic Flow Optimizer:** forecast & optimize traffic flow with different ML algorithms & linear optimization techniques.
-- **RxBuddy:** Smart pill management system. IoT pill dispenser, OCR for prescription reading, and Flutter app for UI.
+- **[cuDL](github.com/nguyen-trinhtk/cudl):** A deep learning library in CUDA implemented from scratch [WIP]
+- **[FFTop](github.com/nguyen-trinhtk/FFTop):** an FFT (signal processing) library that autotunes for GPUs and CPUs
+- **[Othello-on-the-fly](github.com/nguyen-trinhtk/othello-on-the-fly):** a game engine for the Othello board game
+- **[RxBuddy](github.com/nguyen-trinhtk/RxBuddy):** A smart pill management system, with OCR & LLM prescription parser and IoT pill dispenser
+- **[Traffic Flow Optimizer](github.com/nguyen-trinhtk/traffic-flow-optimizer):** A ML pipeline that track, forecast & optimize traffic flow
+
