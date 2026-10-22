@@ -13,6 +13,6 @@ I also love making-and-breaking things through projects; indeed, that’s my fav
 - **[cuDL](https://github.com/nguyen-trinhtk/cudl):**  `[WIP]` A deep learning library from scratch, implemented in CUDA
 - **[FFTop](https://github.com/nguyen-trinhtk/FFTop):** A fast Fourier transform (FFT) library that autotunes for GPUs and CPUs
 - **[Othello-on-the-fly](https://github.com/nguyen-trinhtk/othello-on-the-fly):** A high-performance game engine for Othello (a checkered board game)
-- **[RxBuddy](https://github.com/nguyen-trinhtk/RxBuddy):** A smart pill management system, with OCR & LLM prescription parser and IoT pill dispenser
+- **[RxBuddy](https://github.com/nguyen-trinhtk/RxBuddy):** A smart pill management system, with OCR prescription parser and IoT pill dispenser
 - **[Traffic Flow Optimizer](https://github.com/nguyen-trinhtk/traffic-flow-optimizer):** A ML pipeline that track, forecast & optimize traffic flow
 
